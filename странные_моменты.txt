@@ -1,0 +1,13 @@
+в applicetion.cpp
+
+Обрати внимание: "notch" и "reject" ведут на одну и ту же функцию (создают синонимы)
+
+filter.h
+
+virtual 
+
+namespace
+
+detail
+
+noexcept
